@@ -1,2 +1,3 @@
 # MathFun
-a small math function for C-language
+
+Simple C-language programs
